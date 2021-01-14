@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <If condition={1 < 2}>jsx control statements</If>
+      <If condition={true}>jsx control statements</If>
     </div>
   );
 }
