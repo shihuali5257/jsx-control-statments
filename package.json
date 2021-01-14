@@ -143,9 +143,8 @@
     ],
     "resetMocks": true
   },
-  "babel": {
-    "presets": [
-      "react-app"
-    ]
+  "devDependencies": {
+    "babel-plugin-jsx-control-statements": "^4.1.0",
+    "eslint-plugin-jsx-control-statements": "^2.2.1"
   }
 }
